@@ -123,7 +123,7 @@ const ProductPage = () => {
           <button
             onClick={() => setCurrentPage((prev) => Math.max(prev - 1, 1))}
             disabled={currentPage === 1}
-            className="p-2 border rounded-md mr-2 bg-cyan-600 text-white"
+            className="p-2 border rounded-md mr-2 bg-cyan-600 text-white"           
           >
             Previous
           </button>
