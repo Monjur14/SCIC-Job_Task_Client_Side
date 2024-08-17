@@ -19,7 +19,7 @@ const RegisterPage = () => {
         return () => {
           document.title = 'Title';
         };
-      }, []);
+      }, []);            
 	  const { createUser, updateUserProfile } = UseAuth()
 	  const {
 		register,
