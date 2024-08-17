@@ -1,0 +1,408 @@
+[
+    {
+      "name": "Smart Watch",
+      "image": "https://via.placeholder.com/150",
+      "description": "Track your fitness, monitor your heart rate, and stay connected.",
+      "price": 199.99,
+      "ratings": 4.6,
+      "createdAt": "13/08/2024",
+      "category": "Mobile"
+    },
+    {
+      "name": "Fitness Tracker",
+      "image": "https://via.placeholder.com/150",
+      "description": "Track your daily activity, sleep, and workouts with this fitness tracker.",
+      "price": 99.99,
+      "ratings": 4.5,
+      "createdAt": "08/08/2024",
+      "category": "Mobile"
+    },
+    {
+      "name": "Tablet",
+      "image": "https://via.placeholder.com/150",
+      "description": "Versatile tablet with high-resolution display and fast performance.",
+      "price": 299.99,
+      "ratings": 4.6,
+      "createdAt": "29/07/2024",
+      "category": "Mobile"
+    },
+    {
+      "name": "Smartphone Case",
+      "image": "https://via.placeholder.com/150",
+      "description": "Durable and stylish case to protect your smartphone.",
+      "price": 20.00,
+      "ratings": 4.0,
+      "createdAt": "04/08/2024",
+      "category": "Accessories"
+    },
+    {
+      "name": "Portable Charger",
+      "image": "https://via.placeholder.com/150",
+      "description": "Compact and powerful portable charger for all your devices.",
+      "price": 30.00,
+      "ratings": 4.1,
+      "createdAt": "09/08/2024",
+      "category": "Accessories"
+    },
+    {
+      "name": "Laptop Stand",
+      "image": "https://via.placeholder.com/150",
+      "description": "Adjustable laptop stand for better ergonomics and cooling.",
+      "price": 30.00,
+      "ratings": 4.2,
+      "createdAt": "23/07/2024",
+      "category": "Laptop"
+    },
+    {
+      "name": "Gaming Laptop",
+      "image": "https://via.placeholder.com/150",
+      "description": "Powerful gaming laptop with high-end graphics and fast processor.",
+      "price": 1200.00,
+      "ratings": 4.8,
+      "createdAt": "15/08/2024",
+      "category": "Laptop"
+    },
+    {
+      "name": "Wireless Bluetooth Earbuds",
+      "image": "https://via.placeholder.com/150",
+      "description": "High-quality sound, ergonomic fit, and long battery life.",
+      "price": 59.99,
+      "ratings": 4.5,
+      "createdAt": "16/08/2024",
+      "category": "Mobile"
+    },
+    {
+      "name": "Portable Air Conditioner",
+      "image": "https://via.placeholder.com/150",
+      "description": "Compact and efficient portable air conditioner for cooling small spaces.",
+      "price": 299.99,
+      "ratings": 4.6,
+      "createdAt": "24/07/2024",
+      "category": "Accessories"
+    },
+    {
+      "name": "Travel Backpack",
+      "image": "https://via.placeholder.com/150",
+      "description": "Durable and spacious travel backpack with multiple compartments.",
+      "price": 60.00,
+      "ratings": 4.5,
+      "createdAt": "12/07/2024",
+      "category": "Accessories"
+    },
+    {
+      "name": "Desk Lamp",
+      "image": "https://via.placeholder.com/150",
+      "description": "Adjustable desk lamp with LED light for studying or working.",
+      "price": 25.00,
+      "ratings": 4.1,
+      "createdAt": "27/07/2024",
+      "category": "Accessories"
+    },
+    {
+      "name": "Laptop Sleeve",
+      "image": "https://via.placeholder.com/150",
+      "description": "Protective sleeve for your laptop with a sleek design.",
+      "price": 40.00,
+      "ratings": 4.3,
+      "createdAt": "05/08/2024",
+      "category": "Accessories"
+    },
+    {
+      "name": "Bluetooth Speaker",
+      "image": "https://via.placeholder.com/150",
+      "description": "Portable Bluetooth speaker with excellent sound quality and long battery life.",
+      "price": 70.00,
+      "ratings": 4.3,
+      "createdAt": "06/08/2024",
+      "category": "Mobile"
+    },
+    {
+      "name": "Smartphone Mount",
+      "image": "https://via.placeholder.com/150",
+      "description": "Adjustable mount to hold your smartphone securely.",
+      "price": 25.00,
+      "ratings": 4.2,
+      "createdAt": "07/08/2024",
+      "category": "Accessories"
+    },
+    {
+      "name": "Desk Organizer",
+      "image": "https://via.placeholder.com/150",
+      "description": "Keep your desk tidy with this versatile desk organizer.",
+      "price": 25.00,
+      "ratings": 4.1,
+      "createdAt": "11/07/2024",
+      "category": "Accessories"
+    },
+    {
+      "name": "Fitness Ball",
+      "image": "https://via.placeholder.com/150",
+      "description": "Durable fitness ball for exercises and stretching.",
+      "price": 20.00,
+      "ratings": 4.0,
+      "createdAt": "14/07/2024",
+      "category": "Accessories"
+    },
+    {
+      "name": "Travel Pillow",
+      "image": "https://via.placeholder.com/150",
+      "description": "Comfortable travel pillow for added neck support.",
+      "price": 35.00,
+      "ratings": 4.4,
+      "createdAt": "15/07/2024",
+      "category": "Accessories"
+    },
+    {
+      "name": "Blender",
+      "image": "https://via.placeholder.com/150",
+      "description": "High-speed blender for smoothies, soups, and sauces.",
+      "price": 99.99,
+      "ratings": 4.4,
+      "createdAt": "03/08/2024",
+      "category": "Accessories"
+    },
+    {
+      "name": "Air Purifier",
+      "image": "https://via.placeholder.com/150",
+      "description": "Advanced air purifier to improve air quality in your home.",
+      "price": 120.00,
+      "ratings": 4.7,
+      "createdAt": "26/07/2024",
+      "category": "Accessories"
+    },
+    {
+      "name": "Electric Kettle",
+      "image": "https://via.placeholder.com/150",
+      "description": "Fast boiling electric kettle with auto shut-off feature.",
+      "price": 35.00,
+      "ratings": 4.4,
+      "createdAt": "30/07/2024",
+      "category": "Accessories"
+    },
+    {
+      "name": "Office Desk",
+      "image": "https://via.placeholder.com/150",
+      "description": "Modern office desk with ample storage space.",
+      "price": 200.00,
+      "ratings": 4.2,
+      "createdAt": "02/08/2024",
+      "category": "Accessories"
+    },
+    {
+      "name": "Camera Lens",
+      "image": "https://via.placeholder.com/150",
+      "description": "High-quality lens for capturing stunning photos.",
+      "price": 300.00,
+      "ratings": 4.5,
+      "createdAt": "04/08/2024",
+      "category": "Accessories"
+    },
+    {
+      "name": "Smart Light Bulbs",
+      "image": "https://via.placeholder.com/150",
+      "description": "Adjustable smart light bulbs with color-changing options.",
+      "price": 35.00,
+      "ratings": 4.6,
+      "createdAt": "10/07/2024",
+      "category": "Accessories"
+    },
+    {
+      "name": "Desk Fan",
+      "image": "https://via.placeholder.com/150",
+      "description": "Compact desk fan for personal cooling.",
+      "price": 20.00,
+      "ratings": 4.1,
+      "createdAt": "11/07/2024",
+      "category": "Accessories"
+    },
+    {
+      "name": "Photo Printer",
+      "image": "https://via.placeholder.com/150",
+      "description": "Compact photo printer for printing high-quality photos at home.",
+      "price": 100.00,
+      "ratings": 4.3,
+      "createdAt": "16/07/2024",
+      "category": "Mobile"
+    },
+    {
+      "name": "Electric Toothbrush",
+      "image": "https://via.placeholder.com/150",
+      "description": "Advanced electric toothbrush with multiple cleaning modes.",
+      "price": 89.99,
+      "ratings": 4.4,
+      "createdAt": "19/07/2024",
+      "category": "Accessories"
+    },
+    {
+      "name": "Smart Plug",
+      "image": "https://via.placeholder.com/150",
+      "description": "Smart plug for controlling devices remotely.",
+      "price": 20.00,
+      "ratings": 4.3,
+      "createdAt": "20/07/2024",
+      "category": "Accessories"
+    },
+    {
+      "name": "Wireless Charging Pad",
+      "image": "https://via.placeholder.com/150",
+      "description": "Convenient wireless charging pad for compatible devices.",
+      "price": 40.00,
+      "ratings": 4.5,
+      "createdAt": "22/07/2024",
+      "category": "Accessories"
+    },
+    {
+      "name": "VR Headset",
+      "image": "https://via.placeholder.com/150",
+      "description": "Immerse yourself in virtual reality with this high-quality VR headset.",
+      "price": 350.00,
+      "ratings": 4.7,
+      "createdAt": "25/07/2024",
+      "category": "Mobile"
+    },
+    {
+      "name": "Home Security Camera",
+      "image": "https://via.placeholder.com/150",
+      "description": "Keep your home secure with this advanced security camera.",
+      "price": 150.00,
+      "ratings": 4.6,
+      "createdAt": "28/07/2024",
+      "category": "Accessories"
+    },
+    {
+      "name": "Gaming Keyboard",
+      "image": "https://via.placeholder.com/150",
+      "description": "High-performance gaming keyboard with customizable backlighting.",
+      "price": 80.00,
+      "ratings": 4.4,
+      "createdAt": "31/07/2024",
+      "category": "Laptop"
+    },
+    {
+      "name": "Gaming Mouse",
+      "image": "https://via.placeholder.com/150",
+      "description": "Precision gaming mouse with adjustable DPI settings.",
+      "price": 50.00,
+      "ratings": 4.5,
+      "createdAt": "01/08/2024",
+      "category": "Laptop"
+    },
+    {
+      "name": "Laptop Cooling Pad",
+      "image": "https://via.placeholder.com/150",
+      "description": "Cooling pad to prevent overheating of your laptop.",
+      "price": 30.00,
+      "ratings": 4.2,
+      "createdAt": "02/08/2024",
+      "category": "Laptop"
+    },
+    {
+      "name": "Wireless Mouse",
+      "image": "https://via.placeholder.com/150",
+      "description": "Ergonomic wireless mouse for comfortable use.",
+      "price": 25.00,
+      "ratings": 4.1,
+      "createdAt": "03/08/2024",
+      "category": "Laptop"
+    },
+    {
+      "name": "Laptop Bag",
+      "image": "https://via.placeholder.com/150",
+      "description": "Stylish and functional bag for carrying your laptop.",
+      "price": 50.00,
+      "ratings": 4.3,
+      "createdAt": "04/08/2024",
+      "category": "Laptop"
+    },
+    {
+      "name": "Laptop Charger",
+      "image": "https://via.placeholder.com/150",
+      "description": "Reliable charger for keeping your laptop powered.",
+      "price": 45.00,
+      "ratings": 4.2,
+      "createdAt": "05/08/2024",
+      "category": "Laptop"
+    },
+    {
+      "name": "Smartphone Screen Protector",
+      "image": "https://via.placeholder.com/150",
+      "description": "Protect your smartphone screen from scratches and cracks.",
+      "price": 15.00,
+      "ratings": 4.3,
+      "createdAt": "06/08/2024",
+      "category": "Mobile"
+    },
+    {
+      "name": "Portable Hard Drive",
+      "image": "https://via.placeholder.com/150",
+      "description": "External hard drive for extra storage and backup.",
+      "price": 120.00,
+      "ratings": 4.5,
+      "createdAt": "07/08/2024",
+      "category": "Accessories"
+    },
+    {
+      "name": "Smartphone Tripod",
+      "image": "https://via.placeholder.com/150",
+      "description": "Adjustable tripod for stable smartphone photography.",
+      "price": 25.00,
+      "ratings": 4.2,
+      "createdAt": "08/08/2024",
+      "category": "Mobile"
+    },
+    {
+      "name": "Webcam",
+      "image": "https://via.placeholder.com/150",
+      "description": "High-definition webcam for video calls and streaming.",
+      "price": 80.00,
+      "ratings": 4.4,
+      "createdAt": "09/08/2024",
+      "category": "Accessories"
+    },
+    {
+      "name": "Computer Monitor",
+      "image": "https://via.placeholder.com/150",
+      "description": "High-resolution monitor for better visual experience.",
+      "price": 250.00,
+      "ratings": 4.6,
+      "createdAt": "10/08/2024",
+      "category": "Laptop"
+    },
+    {
+      "name": "External SSD",
+      "image": "https://via.placeholder.com/150",
+      "description": "Fast and durable external SSD for data storage.",
+      "price": 150.00,
+      "ratings": 4.7,
+      "createdAt": "11/08/2024",
+      "category": "Accessories"
+    },
+    {
+      "name": "Smart Home Hub",
+      "image": "https://via.placeholder.com/150",
+      "description": "Central hub for connecting and managing your smart home devices.",
+      "price": 120.00,
+      "ratings": 4.6,
+      "createdAt": "12/08/2024",
+      "category": "Accessories"
+    },
+    {
+      "name": "Smart Thermostat",
+      "image": "https://via.placeholder.com/150",
+      "description": "Energy-efficient thermostat with smart controls.",
+      "price": 150.00,
+      "ratings": 4.5,
+      "createdAt": "13/08/2024",
+      "category": "Accessories"
+    },
+    {
+      "name": "Smart Security System",
+      "image": "https://via.placeholder.com/150",
+      "description": "Comprehensive security system for your home with smart features.",
+      "price": 250.00,
+      "ratings": 4.8,
+      "createdAt": "14/08/2024",
+      "category": "Accessories"
+    }
+  ]
+  
