@@ -41,7 +41,7 @@ const Login = () => {
       }, []);
 
   return (
-    <div className="contain">
+    <div className="contain">           
       <div className="w-full mx-auto max-w-md p-4 rounded-md  sm:p-8">
 	<h2 className="mb-3 text-3xl font-semibold text-center">Login to your account</h2>
 	<div className="my-6 space-y-4">
