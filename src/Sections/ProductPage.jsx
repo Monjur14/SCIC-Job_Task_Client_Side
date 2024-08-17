@@ -118,7 +118,7 @@ const ProductPage = () => {
           </div>
         ))}
       </div>
-      <div className="flex justify-center mb-5 mt-3">
+      <div className="flex justify-center mb-5 mt-3">         
         <div className="pagination-controls mt-4">
           <button
             onClick={() => setCurrentPage((prev) => Math.max(prev - 1, 1))}
