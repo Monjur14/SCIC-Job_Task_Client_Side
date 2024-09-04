@@ -9,9 +9,8 @@ const ProductPage = () => {
   const [sortOrder, setSortOrder] = useState("");
   const [sortByDate, setSortByDate] = useState("");
 
-  // Pagination States
   const [currentPage, setCurrentPage] = useState(1);
-  const [itemsPerPage] = useState(8); // Number of items per page
+  const [itemsPerPage] = useState(8);
 
   useEffect(() => {
     fetch("https://scic-job-task-server-side-14.vercel.app/products")
@@ -39,12 +38,11 @@ const ProductPage = () => {
     return 0;
   });
 
-  // Calculate pagination
   const indexOfLastProduct = currentPage * itemsPerPage;
   const indexOfFirstProduct = indexOfLastProduct - itemsPerPage;
   const currentProducts = sortedProducts.slice(indexOfFirstProduct, indexOfLastProduct);
   const totalPages = Math.ceil(sortedProducts.length / itemsPerPage);
-
+ 
   return (
     <div className="contain px-2">
       <div className="mb-4 mt-5 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 w-full gap-3 border-2 p-1 rounded-lg border-cyan-600">
